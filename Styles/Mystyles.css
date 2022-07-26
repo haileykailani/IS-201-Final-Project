@@ -1,0 +1,81 @@
+h1{
+    font-family: serif;
+    
+}
+h2{
+    font-family: sans-serif
+}
+h3{
+    color: darkgreen
+}
+ul {
+    text-align: justify;
+    font-style: italic;
+    font-size: 15px;
+   
+}
+li {
+    font-weight: bold
+}
+
+{
+    font-family: serif
+}
+
+.normal{
+    font-weight: normal
+}
+
+.on{
+    color: darkgrey;
+    text-align: center;
+    font-size: 14px;
+    
+}
+.on:hover {
+text-decoration: underline;
+color: darkseagreen
+}
+
+.HI {
+    color: darkolivegreen;
+    text-align: center;
+}
+
+a {
+    color: darkgrey;
+}
+a:hover {
+    color: darkseagreen;
+}
+
+body {
+    background-color: beige
+}
+.button{
+    background-color: darkseagreen
+}
+
+.aboutmebg {
+    background-color: lavender
+}
+
+.pics{
+    align-content: center
+}
+
+
+.contact{
+    color: purple;
+    font-family: sans-serif;
+    text-align: left;
+    font-size: 15px;
+    font-style: italic 
+
+}
+
+
+
+
+
+
